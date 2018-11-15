@@ -1,3 +1,26 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BlogPosts.cs](./CS/BlogWebSite/App_Code/BlogPosts.cs) (VB: [BlogPosts.vb](./VB/BlogWebSite/App_Code/BlogPosts.vb))
+* [Global.asax](./CS/BlogWebSite/Global.asax) (VB: [Global.asax](./VB/BlogWebSite/Global.asax))
+* [Layout.master](./CS/BlogWebSite/Layout.master) (VB: [Layout.master.vb](./VB/BlogWebSite/Layout.master.vb))
+* [Layout.master.cs](./CS/BlogWebSite/Layout.master.cs) (VB: [Layout.master.vb](./VB/BlogWebSite/Layout.master.vb))
+* [BlogPost.aspx](./CS/BlogWebSite/Pages/BlogPost.aspx) (VB: [BlogPost.aspx.vb](./VB/BlogWebSite/Pages/BlogPost.aspx.vb))
+* [BlogPost.aspx.cs](./CS/BlogWebSite/Pages/BlogPost.aspx.cs) (VB: [BlogPost.aspx.vb](./VB/BlogWebSite/Pages/BlogPost.aspx.vb))
+* [BlogTimeline.aspx](./CS/BlogWebSite/Pages/BlogTimeline.aspx) (VB: [BlogTimeline.aspx](./VB/BlogWebSite/Pages/BlogTimeline.aspx))
+* [BlogTimeline.aspx.cs](./CS/BlogWebSite/Pages/BlogTimeline.aspx.cs) (VB: [BlogTimeline.aspx](./VB/BlogWebSite/Pages/BlogTimeline.aspx))
+* [Contacts.aspx](./CS/BlogWebSite/Pages/Contacts.aspx) (VB: [Contacts.aspx.vb](./VB/BlogWebSite/Pages/Contacts.aspx.vb))
+* [Contacts.aspx.cs](./CS/BlogWebSite/Pages/Contacts.aspx.cs) (VB: [Contacts.aspx.vb](./VB/BlogWebSite/Pages/Contacts.aspx.vb))
+* [Home.aspx](./CS/BlogWebSite/Pages/Home.aspx) (VB: [Home.aspx](./VB/BlogWebSite/Pages/Home.aspx))
+* [Home.aspx.cs](./CS/BlogWebSite/Pages/Home.aspx.cs) (VB: [Home.aspx](./VB/BlogWebSite/Pages/Home.aspx))
+* **[Search.aspx](./CS/BlogWebSite/Pages/Search.aspx) (VB: [Search.aspx](./VB/BlogWebSite/Pages/Search.aspx))**
+* [Search.aspx.cs](./CS/BlogWebSite/Pages/Search.aspx.cs) (VB: [Search.aspx](./VB/BlogWebSite/Pages/Search.aspx))
+* [site.js](./CS/BlogWebSite/Scripts/site.js) (VB: [site.js](./VB/BlogWebSite/Scripts/site.js))
+* [AddCommentForm.ascx](./CS/BlogWebSite/UserControls/AddCommentForm.ascx) (VB: [AddCommentForm.ascx.vb](./VB/BlogWebSite/UserControls/AddCommentForm.ascx.vb))
+* [AddCommentForm.ascx.cs](./CS/BlogWebSite/UserControls/AddCommentForm.ascx.cs) (VB: [AddCommentForm.ascx.vb](./VB/BlogWebSite/UserControls/AddCommentForm.ascx.vb))
+* [BlogNavigation.ascx](./CS/BlogWebSite/UserControls/BlogNavigation.ascx) (VB: [BlogNavigation.ascx.vb](./VB/BlogWebSite/UserControls/BlogNavigation.ascx.vb))
+* [BlogNavigation.ascx.cs](./CS/BlogWebSite/UserControls/BlogNavigation.ascx.cs) (VB: [BlogNavigation.ascx.vb](./VB/BlogWebSite/UserControls/BlogNavigation.ascx.vb))
+<!-- default file list end -->
 # Blog Web Site (WebForms project template from DevExpress Template Gallery)
 
 
